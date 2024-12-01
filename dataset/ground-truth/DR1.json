@@ -1,0 +1,74 @@
+{
+    "filename":"HR2",
+    "file_description":"Daytime, Heavy traffic, Heavy Rain",
+    "linezone":{
+        "start": [1238,1200],
+        "end":[2484,1200]
+    },
+    "lanes": {
+        "n1_start": [420, 400],
+        "n1_end": [474, 400],
+        "n2_start": [474, 400],
+        "n2_end": [529, 400],
+        "n3_start": [529, 400],
+        "n3_end": [585, 400],
+
+        "s1_start": [681, 400],
+        "s1_end": [734, 400],
+        "s2_start": [734, 400],
+        "s2_end": [785, 400],
+        "s3_start": [785, 400],
+        "s3_end": [837, 400]
+    },
+    "vehicle_counts":{
+        "total":204,
+        "total_n":102,
+        "total_s":102,
+        "total_light":185,
+        "total_heavy":19,
+        "total_bus":0,
+        "total_moto":0,
+        "n1":{
+            "total":36,
+            "light":28,
+            "heavy":8,
+            "bus":0,
+            "moto":0
+        },
+        "n2":{
+            "total":31,
+            "light":29,
+            "heavy":2,
+            "bus":0,
+            "moto":0
+        },
+        "n3":{
+            "total":35,
+            "light":35,
+            "heavy":0,
+            "bus":0,
+            "moto":0
+        },
+        "s1":{
+            "total":47,
+            "light":45,
+            "heavy":2,
+            "bus":0,
+            "moto":0
+        },
+        "s2":{
+            "total":32,
+            "light":27,
+            "heavy":5,
+            "bus":0,
+            "moto":0
+        },
+        "s3":{
+            "total":23,
+            "light":21,
+            "heavy":2,
+            "bus":0,
+            "moto":0
+        }
+    }
+}

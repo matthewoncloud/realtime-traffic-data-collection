@@ -1,0 +1,74 @@
+{
+    "filename":"DS6",
+    "file_description":"",
+    "linezone":{
+        "start": [634,400],
+        "end":[635,400]
+    },
+    "lanes": {
+        "n1_start": [426,400],
+        "n1_end":[477,400],
+        "n2_start":[477,400],
+        "n2_end":[531,400],
+        "n3_start":[531,400],
+        "n3_end":[587,400],
+
+        "s1_start": [688,400],
+        "s1_end":[748,400],
+        "s2_start":[748,400],
+        "s2_end":[806,400],
+        "s3_start":[806,400],
+        "s3_end":[867,400]
+    },
+    "vehicle_counts":{
+        "total":371,
+        "total_n":208,
+        "total_s":163,
+        "total_light":353,
+        "total_heavy":15,
+        "total_bus":0,
+        "total_moto":3,
+        "n1":{
+            "total":65,
+            "light":0,
+            "heavy":0,
+            "bus":0,
+            "moto":0
+        },
+        "n2":{
+            "total":77,
+            "light":0,
+            "heavy":0,
+            "bus":0,
+            "moto":0
+        },
+        "n3":{
+            "total":66,
+            "light":0,
+            "heavy":0,
+            "bus":0,
+            "moto":0
+        },
+        "s1":{
+            "total":73,
+            "light":0,
+            "heavy":0,
+            "bus":0,
+            "moto":0
+        },
+        "s2":{
+            "total":54,
+            "light":0,
+            "heavy":0,
+            "bus":0,
+            "moto":0
+        },
+        "s3":{
+            "total":36,
+            "light":0,
+            "heavy":0,
+            "bus":0,
+            "moto":0
+        }
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "filename":"EC1",
+    "file_description":"Evening rush, High flow, Clear Overcast",
+    "linezone":{
+        "start": [1238,1200],
+        "end":[2484,1200]
+    },
+    "lanes": {
+        "n1_start": [1238,1200],
+        "n1_end":[1393,1200],
+        "n2_start":[1393,1200],
+        "n2_end":[1553,1200],
+        "n3_start":[1553,1200],
+        "n3_end":[1713,1200],
+
+        "s1_start": [2000,1200],
+        "s1_end":[2160,1200],
+        "s2_start":[2160,1200],
+        "s2_end":[2320,1200],
+        "s3_start":[2320,1200],
+        "s3_end":[2484,1200]
+    },
+    "vehicle_counts":{
+        "total":123,
+        "total_n":66,
+        "total_s":57,
+        "total_light":122,
+        "total_heavy":0,
+        "total_bus":1,
+        "total_moto":0,
+        "n1":{
+            "total":22,
+            "light":22,
+            "heavy":0,
+            "bus":0,
+            "moto":0
+        },
+        "n2":{
+            "total":19,
+            "light":19,
+            "heavy":0,
+            "bus":0,
+            "moto":0
+        },
+        "n3":{
+            "total":25,
+            "light":24,
+            "heavy":0,
+            "bus":1,
+            "moto":0
+        },
+        "s1":{
+            "total":25,
+            "light":25,
+            "heavy":0,
+            "bus":0,
+            "moto":0
+        },
+        "s2":{
+            "total":21,
+            "light":21,
+            "heavy":0,
+            "bus":0,
+            "moto":0
+        },
+        "s3":{
+            "total":11,
+            "light":11,
+            "heavy":0,
+            "bus":0,
+            "moto":0
+        }
+    }
+}

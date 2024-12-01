@@ -1,0 +1,67 @@
+{
+    "filename":"DS1",
+    "file_description":"Day-Sunny-1, Daytime, Regular traffic, Sunny",
+    "linezone":{
+        "start": [50,1200],
+        "end":[3790,1200]
+    },
+    "lanes": {
+        "n1_start": [1260,1200],
+        "n1_end":[1422,1200],
+        "n2_start":[1422,1200],
+        "n2_end":[1586,1200],
+        "n3_start":[1586,1200],
+        "n3_end":[1755,1200],
+
+        "s1_start": [2060,1200],
+        "s1_end":[2240,1200],
+        "s2_start":[2240,1200],
+        "s2_end":[2420,1200],
+        "s3_start":[2420,1200],
+        "s3_end":[2600,1200]
+    },
+    "vehicle_counts":{
+        "n1":{
+            "total":0,
+            "car":0,
+            "truck":0,
+            "heavy":0,
+            "bus":0
+        },
+        "n2":{
+            "total":0,
+            "car":0,
+            "truck":0,
+            "heavy":0,
+            "bus":0
+        },
+        "n3":{
+            "total":0,
+            "car":0,
+            "truck":0,
+            "heavy":0,
+            "bus":0
+        },
+        "s1":{
+            "total":0,
+            "car":0,
+            "truck":0,
+            "heavy":0,
+            "bus":0
+        },
+        "s2":{
+            "total":0,
+            "car":0,
+            "truck":0,
+            "heavy":0,
+            "bus":0
+        },
+        "s3":{
+            "total":0,
+            "car":0,
+            "truck":0,
+            "heavy":0,
+            "bus":0
+        }
+    }
+}

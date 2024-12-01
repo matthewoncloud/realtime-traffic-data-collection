@@ -1,0 +1,74 @@
+{
+    "filename":"FG2",
+    "file_description":"",
+    "linezone":{
+        "start": [645,400],
+        "end":[646,400]
+    },
+    "lanes": {
+        "n1_start": [466,400],
+        "n1_end":[509,400],
+        "n2_start":[510,400],
+        "n2_end":[553,400],
+        "n3_start":[553,400],
+        "n3_end":[599,400],
+
+        "s1_start": [679,400],
+        "s1_end":[724,400],
+        "s2_start":[724,400],
+        "s2_end":[772,400],
+        "s3_start":[772,400],
+        "s3_end":[812,400]
+    },
+    "vehicle_counts":{
+        "total":116,
+        "total_n":50,
+        "total_s":66,
+        "total_light":108,
+        "total_heavy":6,
+        "total_bus":0,
+        "total_moto":1,
+        "n1":{
+            "total":12,
+            "light":0,
+            "heavy":0,
+            "bus":0,
+            "moto":0
+        },
+        "n2":{
+            "total":17,
+            "light":0,
+            "heavy":0,
+            "bus":0,
+            "moto":0
+        },
+        "n3":{
+            "total":15,
+            "light":0,
+            "heavy":0,
+            "bus":0,
+            "moto":0
+        },
+        "s1":{
+            "total":11,
+            "light":0,
+            "heavy":0,
+            "bus":0,
+            "moto":0
+        },
+        "s2":{
+            "total":7,
+            "light":0,
+            "heavy":0,
+            "bus":0,
+            "moto":0
+        },
+        "s3":{
+            "total":3,
+            "light":0,
+            "heavy":0,
+            "bus":0,
+            "moto":0
+        }
+    }
+}
